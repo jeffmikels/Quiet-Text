@@ -17,12 +17,11 @@
 </p>
 
 
-## Preview
+## Preview Images
 
-<p>
-  <img src="images/picture5.png" alt="there should be an image here...">
-</p>
-
+<img src="images/themepic1.png" alt="there should be an image here...">
+<img src="images/themepic2.png" alt="there should be an image here...">
+<img src="images/themepic3.png" alt="there should be an image here...">
 
 ## About
 
@@ -126,6 +125,8 @@ Quiet Text has shortcuts for most commonly performed actions. The list of all th
 | Bold | <kbd>ctrl</kbd>+<kbd>b</kbd> | Bold selected text |
 | Find and Replace | <kbd>ctrl</kbd>+<kbd>f</kbd> | Find and replace specified text |
 | Highlight | <kbd>ctrl</kbd>+<kbd>h</kbg> | Highlight selected text |
+| Hide Menu | <kbd>alt</kbd> | Hides menu bar from view in the text editor |
+| Hide Line Numbers | <kbd>ctrl</kbd>+<kbd>shift</kbd>+<kbd>l</kbd> | Hides line numbers from text area |
 | New File | <kbd>ctrl</kbd>+<kbd>n</kbd> | Open a new empty file |
 | Open File | <kbd>ctrl</kbd>+<kbd>o</kbd> | Open an existing file |
 | Color Menu | <kbd>ctrl</kbd>+<kbd>m</kbd> | Opens color menu |
@@ -133,6 +134,8 @@ Quiet Text has shortcuts for most commonly performed actions. The list of all th
 | Save | <kbd>ctrl</kbd>+<kbd>s</kbd> | Save the currently active file |
 | Save As | <kbd>ctrl</kbd>+<kbd>shift</kbd>+<kbd>s</kbd> | Save the currently active file under a different name |
 | Change Font Size | <kbd>ctrl</kbd>+<kbd>mousewheel</kbd> | Increases or decrease font size |
+| Indent | <kbd>tab</kbd> | Indent one or multiple lines |
+| Unindent | <kbd>shift</kbd>+<kbd>tab</kbd> | Unindent one or multiple lines |
 
 **IMPORTANT:** If you don't want your teminal to close when using the <kbd>ctrl</kbd>+<kbd>r</kbd> run command, add an input field at the end of your script.
 
